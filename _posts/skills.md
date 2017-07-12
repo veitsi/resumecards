@@ -6,7 +6,7 @@ type: "Skills"
 * MySQL, MongoDB
 * jQuery, vue.js, angular
 * HTML, CSS, bootstrap 3
-* Laravel, Phpunit, unittesting
+* Laravel, phpunit, unittesting
 * Linux, Ubuntu, Lubuntu
 * heroku, azure
 * git, github, bitbucket
