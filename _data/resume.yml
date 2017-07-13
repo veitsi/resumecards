@@ -5,7 +5,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://github.com/veitsi/resumecards/blob/master/images/ava01small.jpg?raw=true"
+photo: "https://raw.githubusercontent.com/veitsi/resumecards/master/images/ava01small.jpg"
 name: "Vitaliy Godzevich"
 copy: "<strong>PHP/JS developer</strong> at UECTech.  backend programmer with good knowledge of front-end echniques. Also I like working in a team, to learn faster and much more. "
 
