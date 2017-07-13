@@ -5,9 +5,9 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYrrf_3RqB-6OsAafY8bFWOvM-rkeaQfRzRqaJ0hBic9-EtCtK"
-name: "vei tsi"
-copy: "<strong>PHP/JS developer</strong> at UECTech. specialize in writing scalable and modular code."
+photo: "https://github.com/veitsi/resumecards/blob/gh-pages/images/ava01small.jpg?raw=true"
+name: "Vitaliy Godzevich"
+copy: "<strong>PHP/JS developer</strong> at UECTech.  backend programmer with good knowledge of front-end echniques. Also I like working in a team, to learn faster and much more. "
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
