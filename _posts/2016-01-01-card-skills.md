@@ -6,9 +6,7 @@ type: "Skills"
 * jQuery, vue.js, angular
 * HTML, CSS, bootstrap 3
 * Laravel, phpunit, composer, Eloquent ORM 
-* Linux, Ubuntu, Lubuntu
-* git, github, bitbucket
-* heroku, azure
+* Linux, git, github, heroku
 * WebStorm, Sublime Text, phpMyAdmin 
 * python 2/3, flask, virtualenv
 * node.js, facebook chat platform, MongoDB
