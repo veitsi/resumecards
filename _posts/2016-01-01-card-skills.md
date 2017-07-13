@@ -2,14 +2,14 @@
 type: "Skills"
 ---
 
-* php 5.6/7.0, javascript
-* MySQL, MongoDB
+* php 5.6/7.0, javascript, MySQL
 * jQuery, vue.js, angular
 * HTML, CSS, bootstrap 3
-* Laravel, phpunit, unittesting
+* Laravel, phpunit, composer, Eloquent ORM 
 * Linux, Ubuntu, Lubuntu
-* heroku, azure
 * git, github, bitbucket
+* heroku, azure
+* WebStorm, Sublime Text, phpMyAdmin 
 * python 2/3, flask, virtualenv
-* node.js, facebook chat platform
+* node.js, facebook chat platform, MongoDB
 * English, event management
