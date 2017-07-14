@@ -7,7 +7,7 @@ demo: false
 
 photo: "https://raw.githubusercontent.com/veitsi/resumecards/master/images/ava01small.jpg"
 name: "Vitaliy Godzevich"
-copy: "<strong>PHP/JS developer</strong> at UECTech.  backend programmer with good knowledge of front-end echniques. Also I like working in a team, to learn faster and much more. "
+copy: "<strong>PHP/JS developer</strong> at UECTech. Backend programmer with good knowledge of front-end techniques. Also I like working in a team to learn faster and much more. "
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
