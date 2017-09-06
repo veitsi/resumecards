@@ -2,9 +2,9 @@
 type: "Skills"
 ---
 
-* php 5.6/7.0, javascript, MySQL
-* jQuery, vue.js, angular
+* Angular 4, javascript, jQuery,
 * HTML, CSS, bootstrap 3
+* php 5.6/7.0, vue.js, MySQL
 * Laravel, phpunit, composer, Eloquent ORM 
 * Linux, git, github, heroku
 * WebStorm, Sublime Text, phpMyAdmin 
